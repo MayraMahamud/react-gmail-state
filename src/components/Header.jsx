@@ -22,3 +22,26 @@ function Header() {
 }
 
 export default Header
+
+
+
+
+
+/*
+<ul> {emails.map((email)=>
+          (<li key = {email.id}
+          style ={{margin: '10px 0'}}>
+            <div><strong>Subject:</strong> {email.subject}</div>
+            <div><strong>Sender:</strong>{email.sender} </div>
+         </li>
+          
+          
+          ))}
+          </ul> 
+          </div>
+
+
+
+
+
+*/
